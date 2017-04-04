@@ -40,38 +40,18 @@ width: 450px;
 
 }
 
-h5{
 
-	color: #FFFFFF;
-margin: 0.10em auto;
-position: absolute;
-top:  220px;
-left: 10px;
-DECORATION: none ; TEXT-ALIGN:justify;
-font-size: 1.0em;
-width: 900px
-}
 
-p{
 
-	color: #FFFFFF;
-margin: 0.25em auto;
-position: absolute;
-top:  250px;
-left: 10px;
-DECORATION: none ; TEXT-ALIGN:justify;
-font-size: 0.89em;
-width: 900px
 
-}
-
-#articulo  img{
-height: 250px;
-width: 470px;
+#articulo img{
+height: 220px;
+width: 148px;
 
 position: absolute;
-top: 220px;
-left: 250px;
+top: 00px;
+left: 480px;
 right: 150px;
 }
+
 
