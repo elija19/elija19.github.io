@@ -27,43 +27,7 @@ text-align: center;
 
 
 
-h4{
 
-color: #FFFFFF;
-margin: 0.25em auto;
-position: absolute;
-top:  30px;
-left: 10px;
-  TEXT-ALIGN:justify;
-font-size: 0.59em;
-width: 450px;
-
-}
-
-h5{
-
-	color: #FFFFFF;
-margin: 0.10em auto;
-position: absolute;
-top:  220px;
-left: 10px;
-DECORATION: none ; TEXT-ALIGN:justify;
-font-size: 1.0em;
-width: 900px
-}
-
-p{
-
-	color: #FFFFFF;
-margin: 0.25em auto;
-position: absolute;
-top:  250px;
-left: 10px;
-DECORATION: none ; TEXT-ALIGN:justify;
-font-size: 0.89em;
-width: 900px
-
-}
 
 #articulo  img{
 height: 250px;
@@ -73,4 +37,38 @@ position: absolute;
 top: 220px;
 left: 250px;
 right: 150px;
+}
+
+#Actividades2  img{
+height: 420px;
+width: 548px;
+
+
+position: absolute;
+top: 500px;
+left: 280px;
+right: 150px;
+}
+
+#Actividades2 h1{
+height: 120px;
+width: 218px;
+font-size: 1.5em;
+position: absolute;
+top: 500px;
+left:20px;
+right: 150px;
+text-align: left;
+}
+p{
+height: 420px;
+width: 548px;
+
+
+position: absolute;
+top: 00px;
+left: 280px;
+right: 150px;
+
+
 }
