@@ -40,37 +40,35 @@ width: 950px;
 
 }
 
-h5{
 
-	color: #FFFFFF;
-margin: 0.10em auto;
-position: absolute;
-top:  220px;
-left: 10px;
-DECORATION: none ; TEXT-ALIGN:justify;
-font-size: 1.0em;
-width: 900px
-}
 
-p{
-
-	color: #FFFFFF;
-margin: 0.25em auto;
-position: absolute;
-top:  250px;
-left: 10px;
-DECORATION: none ; TEXT-ALIGN:justify;
-font-size: 0.89em;
-width: 900px
-
-}
-
-#articulo  img{
-height: 250px;
-width: 470px;
+#proyecto1  img{
+height: 190px;
+width: 300px;
 
 position: absolute;
-top: 220px;
-left: 250px;
+top: 590px;
+left: 380px;
 right: 150px;
 }
+#proyecto2  img{
+height: 190px;
+width: 300px;
+
+position: absolute;
+top: 310px;
+left: 380px;
+right: 150px;
+}
+
+#proyecto3  img{
+height: 190px;
+width: 300px;
+
+position: absolute;
+top: 80px;
+left: 380px;
+right: 150px;
+}
+
+
