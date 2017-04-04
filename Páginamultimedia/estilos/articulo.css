@@ -31,7 +31,7 @@ h4{
 
 color: #FFFFFF;
 margin: 0.25em auto;
-position: absolute;
+position: relative;
 top:  30px;
 left: 10px;
   TEXT-ALIGN:justify;
@@ -44,7 +44,7 @@ h5{
 
 	color: #FFFFFF;
 margin: 0.10em auto;
-position: absolute;
+position: relative;
 top:  220px;
 left: 10px;
 DECORATION: none ; TEXT-ALIGN:justify;
@@ -56,7 +56,7 @@ p{
 
 	color: #FFFFFF;
 margin: 0.25em auto;
-position: absolute;
+position: relative;
 top:  250px;
 left: 10px;
 DECORATION: none ; TEXT-ALIGN:justify;
@@ -69,8 +69,17 @@ width: 900px
 height: 250px;
 width: 470px;
 
-position: absolute;
+position: relative;
 top: 220px;
 left: 250px;
+right: 150px;
+}
+#Imagenaudio  img{
+height: 120px;
+width: 178px;
+
+position: relative;
+top: 100px;
+left: 480px;
 right: 150px;
 }
