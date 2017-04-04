@@ -7,35 +7,3 @@
 }
 
 
-#Imagenaudio  img{
-height: 120px;
-width: 178px;
-
-position: absolute;
-top: 00px;
-left: 680px;
-right: 150px;
-}
-
-#Parrafoaudio  img{
-height: 120px;
-width: 178px;
-
-position: absolute;
-top: 120px;
-left:20px;
-right: 150px;
-}
-
-#Cascada h1{
-height: 120px;
-width: 208px;
-
-position: absolute;
-top: 120px;
-font-size: 1.5em;
-text-align: left;
-left:700px;
-right: 150px;
-}
-
