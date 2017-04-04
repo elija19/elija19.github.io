@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2017 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="phone" unicode="&#xe800;" d="M0 615q0 50 28 76l138 138q45 37 77-13l113-211q18-39-14-71l-51-52q-5-6-5-14 25-98 132-195l31-30t36-34 34-26 41-25 40-14q20-6 27 2l61 60q39 30 72 12l203-121q22-14 25-37t-13-39l-141-139q-27-27-74-27-140 4-318 121-258 185-375 406-72 151-67 233z" horiz-adv-x="988" />
+
+<glyph glyph-name="book-open" unicode="&#xe801;" d="M340 238l0-68-200 80 0 68z m0 208l0-68-200 80 0 68z m538 346q22-12 22-42l0-640q0-34-32-46l-398-160q-8-2-10-2t-5-1-5-1-5 1-5 1l-10 2-398 160q-32 12-32 46l0 640q0 30 22 42 22 16 46 6l382-154 382 154q24 10 46-6z m-478-788l0 560-320 128 0-560z m420 128l0 560-320-128 0-560z m-60 186l0-68-200-80 0 68z m0 208l0-68-200-80 0 68z" horiz-adv-x="900" />
+
+<glyph glyph-name="video" unicode="&#xe806;" d="M980 600l-100 0 0-100 100 0 0-100-100 0 0-100 100 0 0-100-100 0 0-100 100 0 0-60q0-16-12-28t-28-12l-900 0q-16 0-28 12t-12 28l0 60 100 0 0 100-100 0 0 100 100 0 0 100-100 0 0 100 100 0 0 100-100 0 0 60q0 18 12 29t28 11l900 0q16 0 28-11t12-29l0-60z m-600-400l250 150-250 150 0-300z" horiz-adv-x="980" />
+
+<glyph glyph-name="user-circle" unicode="&#xf2bd;" d="M850 103q-12 86-49 144t-103 66q-37-42-89-65t-109-23-109 23-89 65q-66-9-103-66t-49-144q59-84 151-133t199-49 199 49 151 133z m-136 390q0 89-62 151t-152 63-151-63-63-151 63-152 151-62 152 62 62 152z m286-143q0-102-40-194t-106-160-159-106-195-40q-102 0-194 40t-160 106-106 160-40 194 40 194 106 160 160 106 194 40 194-40 160-106 106-160 40-194z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

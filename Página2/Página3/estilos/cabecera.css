@@ -1,0 +1,15 @@
+*{
+   
+   padding: 0;
+   margin: 0;
+   border: 0;
+}
+
+#cabecera img{
+padding-left: 400px;
+height: 90px;
+position: absolute;
+top: 10px;
+left: 20px;
+
+}

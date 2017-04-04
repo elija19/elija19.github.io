@@ -1,0 +1,30 @@
+
+*{
+   
+   padding: 0;
+   margin: 0;
+   border: 0;
+}
+
+#proyecto7  img{
+height: 170px;
+width: 250px;
+
+position: absolute;
+top: 150px;
+left: 520px;
+right: 150px;
+}
+#proyecto8  img{
+height: 170px;
+width: 300px;
+
+position: absolute;
+top: 150px;
+left: 180px;
+right: 150px;
+}
+
+
+
+

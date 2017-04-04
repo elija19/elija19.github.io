@@ -1,0 +1,38 @@
+
+*{
+   
+   padding: 0;
+   margin: 0;
+   border: 0;
+}
+
+#proyecto4  img{
+height: 170px;
+width: 250px;
+
+position: absolute;
+top: 240px;
+left: 720px;
+right: 150px;
+}
+#proyecto5  img{
+height: 170px;
+width: 300px;
+
+position: absolute;
+top: 300px;
+left: 480px;
+right: 150px;
+}
+
+#proyecto6  img{
+height: 110px;
+width: 190px;
+
+position: absolute;
+top: 190px;
+left: 550px;
+right: 150px;
+}
+
+

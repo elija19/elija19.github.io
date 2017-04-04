@@ -1,0 +1,80 @@
+
+*{
+   
+   padding: 0;
+   margin: 0;
+   border: 0;
+}
+#contenedorintro{
+
+background: #005883;
+height: 150px;
+width: 1200px;
+margin-right: auto;
+margin-left: auto;
+padding-top: 30px;
+color: #FFFFFF;
+font-family: "angsa";
+font-size: 1.2em;
+text-align: center;
+ box-shadow: 5px 5px 5px 5px #000;
+ position: absolute;
+top: 110px;
+left: 42px;
+text-align: center;
+
+}
+@font-face{
+font-family: 'angsa';  
+src: url("../font/angsa.ttf");
+
+font-weight: normal;
+font-style: normal;
+}
+
+h1{
+color: #FFFFFF;
+margin: 0.25em auto;
+padding-right: 310px;
+padding-top:  25px;
+
+}
+h2{
+
+margin: 0.25em auto;
+position: absolute;
+top: 95px;
+left: 700px;
+
+}
+#contenedorintro img{
+height: 160px;
+width: 230px;
+
+position: absolute;
+top: 15px;
+left: 900px;
+right: 150px;
+}
+
+h3{
+
+margin: 0.25em auto;
+position: absolute;
+top: 135px;
+left: 685px;
+font-size: 0.95em;
+color: #F0B429;
+
+}
+#contenedorintro img{
+height: 160px;
+width: 230px;
+
+position: absolute;
+top: 10px;
+left: 900px;
+right: 150px;
+}
+
+ 

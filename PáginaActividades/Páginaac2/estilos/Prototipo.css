@@ -1,0 +1,51 @@
+
+*{
+   
+   padding: 0;
+   margin: 0;
+   border: 0;
+}
+
+
+
+#Parrafoqui1 h2{
+height: 120px;
+width: 318px;
+font-size: 0.9em;
+position: absolute;
+top: 50px;
+left:00px;
+right: 600px;
+text-align: justify;
+}
+
+#Parrafoqui1 img{
+height: 500px;
+width: 718px;
+
+position: absolute;
+top: 100px;
+left:200px;
+right: 150px;
+
+}
+#Parrafoqui h1{
+height: 120px;
+width: 318px;
+font-size: 0.9em;
+position: absolute;
+top: 620px;
+left:50px;
+right: 400px;
+text-align: justify;
+}
+#Parrafoqui img{
+height: 500px;
+width: 718px;
+
+position: absolute;
+top: 100px;
+left:150px;
+right: 150px;
+
+}

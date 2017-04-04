@@ -1,0 +1,18 @@
+
+*{
+   
+   padding: 0;
+   margin: 0;
+   border: 0;
+}
+
+#Te  img{
+height: 220px;
+width: 178px;
+
+position: absolute;
+top: 00px;
+left: 480px;
+right: 150px;
+}
+
