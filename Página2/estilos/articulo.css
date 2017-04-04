@@ -74,3 +74,26 @@ top: 220px;
 left: 250px;
 right: 150px;
 }
+
+#prototipo  img{
+height: 230px;
+width: 410px;
+
+position: absolute;
+top: 1120px;
+left: 250px;
+right: 150px;
+}
+#Cascada  img{
+height: 230px;
+width: 410px;
+
+position: absolute;
+top: 850px;
+left: 250px;
+right: 150px;
+}
+
+
+
+
