@@ -27,50 +27,44 @@ text-align: center;
 
 
 
-h4{
-
-color: #FFFFFF;
-margin: 0.25em auto;
+#Parrafotaller h1{
+height: 120px;
+width: 518px;
+font-size: 0.8em;
 position: absolute;
-top:  30px;
-left: 10px;
-  TEXT-ALIGN:justify;
-font-size: 0.59em;
-width: 450px;
-
-}
-
-h5{
-
-	color: #FFFFFF;
-margin: 0.10em auto;
-position: absolute;
-top:  220px;
-left: 10px;
-DECORATION: none ; TEXT-ALIGN:justify;
-font-size: 1.0em;
-width: 900px
-}
-
-p{
-
-	color: #FFFFFF;
-margin: 0.25em auto;
-position: absolute;
-top:  250px;
-left: 10px;
-DECORATION: none ; TEXT-ALIGN:justify;
-font-size: 0.89em;
-width: 900px
-
-}
-
-#articulo  img{
-height: 250px;
-width: 470px;
-
-position: absolute;
-top: 220px;
-left: 250px;
+top: 00px;
+left:20px;
 right: 150px;
+text-align: justify;
+}
+
+#Parrafotaller img{
+height: 200px;
+width: 318px;
+
+position: absolute;
+top: 800px;
+left:300px;
+
+
+}
+#articulo p{
+height: 120px;
+width: 518px;
+font-size: 0.8em;
+position: absolute;
+top: 600px;
+left:20px;
+right: 420px;
+text-align: justify;
+}
+#articulo img{
+height: 200px;
+width: 318px;
+
+position: absolute;
+top: 800px;
+left:600px;
+right: 420px;
+
 }
