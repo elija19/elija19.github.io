@@ -48,19 +48,13 @@ top: 70px;
 left: 350px;
 
 }
-@font-face{
-font-family: 'angsa';  
-src: url("../font/angsa.ttf");
 
-font-weight: normal;
-font-style: normal;
-}
 
-h1{
+p{
 color: #FFFFFF;
 margin: 0.25em auto;
 position: absolute;
-top: 50px;
+top: 60px;
 left: 20px;
 width: 250px;
 font-size: 1.1em;
