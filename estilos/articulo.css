@@ -35,7 +35,7 @@ top:  60px;
 left: 10px;
   TEXT-ALIGN:justify;
 font-size: 0.79em;
-width: 900px;
+width: 300px;
 
 }
 
@@ -44,11 +44,11 @@ h5{
 	color: #FFFFFF;
 margin: 0.10em auto;
 position: absolute;
-top:  220px;
+top:  340px;
 left: 10px;
 DECORATION: none ; TEXT-ALIGN:justify;
 font-size: 1.0em;
-width: 900px
+width: 400px
 }
 
 p{
@@ -56,11 +56,11 @@ p{
 	color: #FFFFFF;
 margin: 0.25em auto;
 position: absolute;
-top:  250px;
+top:  370px;
 left: 10px;
 DECORATION: none ; TEXT-ALIGN:justify;
 font-size: 0.89em;
-width: 900px
+width: 300px
 
 }
 
@@ -73,5 +73,11 @@ left: 30px;
 
  }
 
+#video{
+position: absolute;
+top: 160px;
+left:370px;
+
+}
 
 
